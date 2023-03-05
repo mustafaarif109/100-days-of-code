@@ -15,4 +15,4 @@
 
 **Thoughts:** Builder design pattern was a little tricky to implement but I can think of a lot of use cases for it. I believe this design pattern could be very useful specially in cases where there are a lot of parameters in a constructor
 
-**Link to work:** [FactoryMethodDesignPattern(Day1)][[((https://github.com/mustafaarif109/100-days-of-code-personal/tree/main/BuilderMethodDesignPattern(Day2)]
+**Link to work:** [BuilderMethodDesignPattern(Day2)][[((https://github.com/mustafaarif109/100-days-of-code-personal/tree/main/BuilderMethodDesignPattern(Day2)]
