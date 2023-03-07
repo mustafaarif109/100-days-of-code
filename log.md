@@ -6,7 +6,7 @@
 
 **Thoughts:** Design Patterns are something that I have listened people talk about a lot and I have used multiple of them but still want to get some basics right for them and so I have started to learn it from scratch again and It was a good experience.
 
-**Link to work:** [FactoryMethodDesignPattern(Day1)] (https://github.com/mustafaarif109/100-days-of-code-personal/tree/main/FactoryMethodDesignPattern(Day1))
+**Link to work:** [FactoryMethodDesignPattern(Day1)](https://github.com/mustafaarif109/100-days-of-code-personal/tree/main/FactoryMethodDesignPattern(Day1))
 
 
 ### Day 1: March 6th, 2023
